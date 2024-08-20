@@ -3,11 +3,7 @@ project:
   output-dir: docs
 
 website:
-  navbar:
-    title: "Prayag Gordy"
-    left:
-      - href: index.qmd
-        text: Home
+  title: "Prayag Gordy"
 
 format:
   html:
