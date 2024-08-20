@@ -1,5 +1,20 @@
 ---
-title: "prayaggordy.github.io"
+title: "Prayag Gordy"
+image: media/headshot.png
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/prayag-gordy/
+    - text: GitHub
+      href: https://github.com/prayaggordy
+    - text: Twitter
+      href: https://twitter.com/prayaggordy
+    - text: Email
+      href: mailto:prayaggordy@gmail.com
 ---
 
 This is a Quarto website.
