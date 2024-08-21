@@ -3,7 +3,8 @@ title: "Prayag Gordy"
 image: media/headshot.png
 toc: false
 about:
-  template: jolla
+  id: about-heading
+  template: trestles
   image-shape: round
   image-width: 20em
   links:
@@ -17,3 +18,71 @@ about:
       href: mailto:prayaggordy@gmail.com
 ---
 
+:::{#about-heading}
+
+I'm Prayag Gordy, a Tobin Center / Economics Pre-Doctoral Fellow working with Professors Jacob Wallace and Chima Ndumele on a series of Medicaid projects at the Yale School of Public Health. My interests span data science, journalism, policy, and politics. I'm an avid R programmer and package developer.
+
+You can contact me at [prayaggordy@gmail.com](mailto:prayaggordy@gmail.com).
+
+### Education
+
+I graduated _cum laude_ from Rice University in May 2024 with a B.S. in Statistics, a B.A. in Mathematics, and a minor in Data Science. While at Rice, I received the following recognition:
+
+- Most Distinguished Senior, Rice University School of Engineering
+- Most Outstanding Senior, Rice University Department of Statistics
+- Distinction in Research and Creative Works
+- Induction into Phi Beta Kappa
+
+My coursework included analysis, measure theory, Bayesian statistics, probability theory, machine learning, and causal inference.
+
+:::
+
+## 
+
+### Selected experiences
+
+<p style="text-align:left;">
+    Yale University Tobin Center for Economic Policy / _Pre-Doctoral Research Fellow_
+    <span style="float:right;">
+        July 2024 – Present
+    </span>
+</p>
+
+- Two-year pre-doctoral research fellow under Professors Jacob Wallace and Chima Ndumele at the Yale
+School of Public Health. Assigned to research "Place-based drivers of midlife mortality: Evidence from
+migration in Medicaid."
+
+<p style="text-align:left;">
+    Naval Health Research Center / _Data Scientist_
+    <span style="float:right;">
+        January 2022 – Present
+    </span>
+</p>
+
+- Conducting data analysis and creating tables and figures for multiple ongoing large-scale research projects on sleep and fatigue. Ingesting raw sleep device data. Developing an R package for measure comparison. Automating key reports and building a data pipeline.
+- Authoring and contributing to multiple academic papers, sponsor reports, and briefings to senior Navy
+officials. Attended posit::conf(2023) on behalf of NHRC.
+
+<p style="text-align:left;">
+    The Washington Post / _Data Journalism Fellow_
+    <span style="float:right;">
+        June – October 2023
+    </span>
+</p>
+
+- Data journalist on [Home-school Nation](https://www.washingtonpost.com/education/interactive/2023/christian-home-schoolers-revolt/), a flagship Washington Post project investigating the rise of homeschooling in the U.S. during the COVID-19 pandemic.
+- Published ["Home schooling's rise from fringe to fastest-growing form of education"](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/) Oct. 31, printed front-page Nov. 3. Reported this story with a novel collection and analysis of state- and district-level enrollment, demographic, and testing data. Worked closely with non-technical journalists.
+
+<p style="text-align:left;">
+    The Rice Thresher / _Editor in Chief_
+    <span style="float:right;">
+        May 2023 – May 2024
+    </span>
+</p>
+
+- Co-editor-in-chief of Rice University’s student-run newspaper, printing weekly. Managed more than 100 students and a \$66,000 budget. Weekly time commitment of 20-30 hours.
+- Led multiple recurring staff meetings and production nights, meeting tight print deadlines, working with campus stakeholders. Winner of and finalist for multiple awards during [my tenure](https://www.ricethresher.org/staff/prayag-gordy) at the Thresher: First Place: In-Depth Reporting, Texas Intercollegiate Press Association (2023); Finalist: Best Special Section, Best Multimedia Feature Story, Best News Package, College Media Association (2023); Honorable Mention: Best Sports Multimedia Story, College Media Association (2023).
+
+---
+
+<p style="text-align: center;"> _Shoot me an [email](mailto:prayaggordy@gmail.com) to connect._ <p>
